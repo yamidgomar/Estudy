@@ -1,2 +1,2 @@
 # Estudy
-recopilacion
+Recopilacion de proyectos de estudio y para produccion NODEJS.
